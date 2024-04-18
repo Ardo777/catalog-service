@@ -1,4 +1,4 @@
-package com.example.catalogservice.endpoint;
+package com.example.catalogservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
